@@ -1,5 +1,5 @@
 # ECGM
-基于情感的对话生成
+基于情感的对话生成\n
 遵照文档中的下载链接，下载glove词向量，放入vector文件夹，下载EmpatheticDialogue数据集，放入train_data文件夹
 运行preprocess文件夹下的文件，对数据集进行预处理
 运行train_MIME.py，训练模型保存至model_data文件夹
